@@ -12,7 +12,7 @@ export default function Header() {
             <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-orange-500 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-lg">SH</span>
             </div>
-            <span className="text-2xl font-bold text-gray-900">SkillHaus</span>
+            <span className="text-2xl font-bold text-gray-900">Skillhours</span>
           </div>
 
           <nav className="hidden md:flex gap-8">
